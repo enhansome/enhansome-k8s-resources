@@ -2,7 +2,7 @@
 
 A curated list of awesome Kubernetes tools and resources.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,829 | 🐛 105 | 📅 2026-08-21 list and [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,129 | 🐛 102 | 🌐 Python | 📅 2024-03-12.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21 list and [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,128 | 🐛 102 | 🌐 Python | 📅 2024-03-12.
 
 ## The Fiery Meter of Awesomeness
 
@@ -12,7 +12,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,829 | �
 * Repo with 1000+ Stars: :fire::fire::fire::fire:
 * Repo with 2000+ Stars: :fire::fire::fire::fire::fire:
 
-Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,129 | 🐛 102 | 🌐 Python | 📅 2024-03-12.
+Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,128 | 🐛 102 | 🌐 Python | 📅 2024-03-12.
 
 ## Contents
 
@@ -47,8 +47,8 @@ Items with :green\_heart: indicate open source projects.
 
 ### Command Line Tools
 
-* :green\_heart:[K9s](https://github.com/derailed/k9s) ⭐ 34,458 | 🐛 97 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - K9s provides a terminal UI to interact with your Kubernetes clusters.
-* :green\_heart:[Helm](https://github.com/helm/helm) ⭐ 30,182 | 🐛 456 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources.
+* :green\_heart:[K9s](https://github.com/derailed/k9s) ⭐ 34,460 | 🐛 96 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - K9s provides a terminal UI to interact with your Kubernetes clusters.
+* :green\_heart:[Helm](https://github.com/helm/helm) ⭐ 30,183 | 🐛 456 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Helm is a tool for managing Charts. Charts are packages of pre-configured Kubernetes resources.
 * :green\_heart:[kubectx + kubens](https://github.com/ahmetb/kubectx) ⭐ 19,964 | 🐛 40 | 🌐 Go | 📅 2026-08-02 :fire::fire::fire::fire::fire: - `kubectx` helps you switch between clusters back and forth, and `kubens` helps you switch between Kubernetes namespaces smoothly.
 * :green\_heart:[Kubevela](https://github.com/oam-dev/kubevela) ⭐ 7,890 | 🐛 272 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - KubeVela is an easy-to-use yet extensible platform that enables them to design and ship applications with minimal effort.
 * :green\_heart:[Helmfile](https://github.com/helmfile/helmfile) ⭐ 5,182 | 🐛 23 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Helmfile is a declarative spec for deploying helm charts.
@@ -64,7 +64,7 @@ Items with :green\_heart: indicate open source projects.
 * 💚[kubecolor](https://github.com/kubecolor/kubecolor) ⭐ 1,448 | 🐛 15 | 🌐 Go | 📅 2026-08-25 🔥🔥🔥 - colorizes kubectl output
 * :green\_heart:[kubediff](https://github.com/weaveworks/kubediff) ⚠️ Archived :fire::fire::fire: - Kubediff is a tool for Kubernetes to show you the differences between your running configuration and your version controlled configuration.
 * :green\_heart:[kapp](https://github.com/vmware-tanzu/carvel-kapp) ⭐ 1,077 | 🐛 128 | 🌐 Go | 📅 2026-08-25 :fire::fire::fire: - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
-* :green\_heart:[Ktunnel](https://github.com/omrikiei/ktunnel) ⭐ 1,057 | 🐛 22 | 🌐 Go | 📅 2026-08-28 :fire::fire: - Ktunnel is a CLI tool that establishes a reverse tunnel between a kubernetes cluster and your local machine.
+* :green\_heart:[Ktunnel](https://github.com/omrikiei/ktunnel) ⭐ 1,058 | 🐛 19 | 🌐 Go | 📅 2026-08-29 :fire::fire: - Ktunnel is a CLI tool that establishes a reverse tunnel between a kubernetes cluster and your local machine.
 * :green\_heart:[RBAC Lookup](https://github.com/FairwindsOps/rbac-lookup) ⭐ 978 | 🐛 7 | 🌐 Go | 📅 2026-08-10 :fire::fire::fire: - RBAC Lookup is a CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name.
 * :green\_heart:[Helmwave](https://github.com/helmwave/helmwave) ⭐ 901 | 🐛 23 | 🌐 Go | 📅 2026-08-06 :fire::fire::fire: - Helmwave is helm3-native tool for deploy your Helm Charts. It is like Docker-Compose, but for Helm.
 * :green\_heart:[nova](https://github.com/FairwindsOps/nova/) ⭐ 874 | 🐛 26 | 🌐 Go | 📅 2026-08-28 :fire::fire: - Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories.
@@ -76,15 +76,15 @@ Items with :green\_heart: indicate open source projects.
 ### Cluster Provisioning
 
 * :green\_heart:[k3s](https://github.com/rancher/k3s) ⭐ 33,842 | 🐛 73 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Lightweight Kubernetes. Easy to install,Kubernetes clusters from the command line.
-* :green\_heart:[Minikube](https://github.com/kubernetes/minikube) ⭐ 32,074 | 🐛 540 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - minikube implements a local Kubernetes cluster on macOS,Linux,all in a binary less than 100 MB.
+* :green\_heart:[Minikube](https://github.com/kubernetes/minikube) ⭐ 32,073 | 🐛 539 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire::fire: - minikube implements a local Kubernetes cluster on macOS,Linux,all in a binary less than 100 MB.
 * :green\_heart:[kubespray](https://github.com/kubernetes-sigs/kubespray) ⭐ 18,708 | 🐛 205 | 🌐 Jinja | 📅 2026-08-21 :fire::fire::fire::fire::fire: - Deploy a production ready Kubernetes cluster
-* :green\_heart:[kops](https://github.com/kubernetes/kops) ⭐ 16,670 | 🐛 133 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - `kops` helps you create,like kind,upgrade and maintain production-grade
-* :green\_heart:[kind](https://github.com/kubernetes-sigs/kind) ⭐ 15,451 | 🐛 244 | 🌐 Go | 📅 2026-08-26 :fire::fire::fire::fire::fire: - kind is a tool for running local Kubernetes clusters using Docker container "nodes".
-* :green\_heart:[vCluster](https://github.com/loft-sh/vcluster/) ⭐ 11,277 | 🐛 162 | 🌐 Go | 📅 2026-08-28 : :fire::fire::fire::fire::fire: - vCluster allows you to create fully functional virtual Kubernetes clusters, drastically reducing costs and improving multi-tenancy and isolation compared to traditional Kubernetes.
+* :green\_heart:[kops](https://github.com/kubernetes/kops) ⭐ 16,671 | 🐛 132 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire::fire: - `kops` helps you create,like kind,upgrade and maintain production-grade
+* :green\_heart:[kind](https://github.com/kubernetes-sigs/kind) ⭐ 15,452 | 🐛 244 | 🌐 Go | 📅 2026-08-26 :fire::fire::fire::fire::fire: - kind is a tool for running local Kubernetes clusters using Docker container "nodes".
+* :green\_heart:[vCluster](https://github.com/loft-sh/vcluster/) ⭐ 11,278 | 🐛 162 | 🌐 Go | 📅 2026-08-28 : :fire::fire::fire::fire::fire: - vCluster allows you to create fully functional virtual Kubernetes clusters, drastically reducing costs and improving multi-tenancy and isolation compared to traditional Kubernetes.
 * :green\_heart:[Talos Linux](https://github.com/siderolabs/talos) ⭐ 11,041 | 🐛 225 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Talos Linux is a minimal, immutable, secure OS that installs vanilla Kubernetes - for production datacenters, K8s\@home, and Edge.
 * :green\_heart:[microK8s](https://github.com/ubuntu/microk8s) ⭐ 9,359 | 🐛 165 | 🌐 Python | 📅 2026-08-28 :fire::fire::fire::fire::fire: - The smallest, fastest Kubernetes
 * :green\_heart:[k3d](https://github.com/rancher/k3d) ⭐ 6,538 | 🐛 288 | 🌐 Go | 📅 2026-08-25 :fire::fire::fire::fire::fire: - k3d,and Windows.,destroy,half the memory,highly available,is a tool for running local k3s clusters in docker. It's a single binary about 20 MB. You need to have docker installed.
-* :green\_heart:[k0s](https://github.com/k0sproject/k0s) ⭐ 6,455 | 🐛 207 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - k0s - Zero Friction Kubernetes (The Simple, Solid & Certified Kubernetes Distribution)
+* :green\_heart:[k0s](https://github.com/k0sproject/k0s) ⭐ 6,456 | 🐛 208 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire::fire: - k0s - Zero Friction Kubernetes (The Simple, Solid & Certified Kubernetes Distribution)
 * :green\_heart:[eksctl](https://github.com/weaveworks/eksctl) ⭐ 5,213 | 🐛 91 | 🌐 Go | 📅 2026-08-27 :fire::fire::fire::fire::fire: - `eksctl` is a simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2.
 * :green\_heart:[Cluster API](https://github.com/kubernetes-sigs/cluster-api) ⭐ 4,290 | 🐛 220 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Cluster API is a Kubernetes sub-project focused on providing declarative APIs and tooling to simplify provisioning, upgrading, and operating multiple Kubernetes clusters.
 * :green\_heart:[Bootkube](https://github.com/kubernetes-sigs/bootkube) ⚠️ Archived :fire::fire::fire::fire: - Bootkube is a tool for launching self-hosted Kubernetes clusters.
@@ -95,34 +95,34 @@ Items with :green\_heart: indicate open source projects.
 
 ### Automation and CI/CD
 
-* :green\_heart:[Argo CD](https://github.com/argoproj/argo-cd) ⭐ 24,027 | 🐛 4,411 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
+* :green\_heart:[Argo CD](https://github.com/argoproj/argo-cd) ⭐ 24,030 | 🐛 4,412 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
 * :green\_heart:[KubeSphere](https://github.com/kubesphere/kubesphere) ⭐ 17,033 | 🐛 354 | 🌐 Go | 📅 2026-07-15 :fire::fire::fire::fire::fire: - KubeSphere is a distributed operating system providing cloud native stack with Kubernetes as its kernel, and aims to be plug-and-play architecture for third-party applications seamless integration to boost its ecosystem.
-* :green\_heart:[Argo Workflows](https://github.com/argoproj/argo) ⭐ 16,945 | 🐛 1,254 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
-* :green\_heart:[Skaffold](https://github.com/GoogleContainerTools/skaffold) ⭐ 15,890 | 🐛 903 | 🌐 Go | 📅 2026-08-27 :fire::fire::fire::fire::fire: - Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
+* :green\_heart:[Argo Workflows](https://github.com/argoproj/argo) ⭐ 16,945 | 🐛 1,254 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire::fire: - Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
+* :green\_heart:[Skaffold](https://github.com/GoogleContainerTools/skaffold) ⭐ 15,890 | 🐛 904 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire::fire: - Skaffold is a command line tool that facilitates continuous development for Kubernetes applications.
 * :green\_heart:[Reloader](https://github.com/stakater/Reloader) ⭐ 10,373 | 🐛 162 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Reloader can watch changes in `ConfigMap` and `Secret` and do rolling upgrades on Pods with their associated `DeploymentConfigs`, `Deployments`, `Daemonsets` and `Statefulsets`.
 * :green\_heart:[Spinnaker](https://github.com/spinnaker/spinnaker) ⭐ 9,779 | 🐛 102 | 🌐 Java | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Spinnaker is an open-source continuous delivery platform for releasing software changes with high velocity and confidence.
-* :green\_heart:[Flux2](https://github.com/fluxcd/flux2) ⭐ 8,374 | 🐛 254 | 🌐 Go | 📅 2026-08-25 :fire::fire::fire::fire::fire: - Flux version 2 is built from the ground up to use Kubernetes' API extension system, and to integrate with Prometheus and other core components of the Kubernetes ecosystem.
+* :green\_heart:[Flux2](https://github.com/fluxcd/flux2) ⭐ 8,375 | 🐛 254 | 🌐 Go | 📅 2026-08-25 :fire::fire::fire::fire::fire: - Flux version 2 is built from the ground up to use Kubernetes' API extension system, and to integrate with Prometheus and other core components of the Kubernetes ecosystem.
 * :green\_heart:[Flagger](https://github.com/weaveworks/flagger) ⭐ 5,396 | 🐛 387 | 🌐 Go | 📅 2026-08-24 :fire::fire::fire::fire::fire: - Flagger is a progressive delivery tool that automates the release process for applications running on Kubernetes.
 * :green\_heart:[werf](https://github.com/werf/werf) ⭐ 4,719 | 🐛 29 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - werf is a CLI tool glueing Git, Docker, Helm & Kubernetes with any CI system to implement CI/CD and GitOps.
 * :green\_heart:[Kubero](https://github.com/kubero-dev/kubero) ⭐ 4,398 | 🐛 117 | 🌐 TypeScript | 📅 2026-08-11 :fire::fire::fire::fire::fire: - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
-* :green\_heart:[Argo Rollouts](https://github.com/argoproj/argo-rollouts) ⭐ 3,561 | 🐛 661 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire: - Argo Rollouts controller, uses the Rollout custom resource to provide additional deployment strategies such as Blue Green and Canary to Kubernetes.
+* :green\_heart:[Argo Rollouts](https://github.com/argoproj/argo-rollouts) ⭐ 3,562 | 🐛 661 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire: - Argo Rollouts controller, uses the Rollout custom resource to provide additional deployment strategies such as Blue Green and Canary to Kubernetes.
 * :green\_heart:[Argo Events](https://github.com/argoproj/argo-events) ⭐ 2,687 | 🐛 152 | 🌐 Go | 📅 2026-08-22 :fire::fire::fire::fire: - Argo Events is an event-driven workflow automation framework for Kubernetes which helps you trigger K8s objects, Argo Workflows, Serverless workloads, etc.
-* :green\_heart:[Otomi - Self-hosted PaaS for K8s](https://github.com/redkubes/otomi-core) ⭐ 2,258 | 🐛 65 | 🌐 Go Template | 📅 2026-08-28 :fire::fire::fire::fire: - Otomi adds developer- and operations-centric tools, automation, and developer self-service on top of Kubernetes in any infrastructure or cloud, to code, build, release, deploy, secure, operate and monitor containerized applications.
-  :green\_heart:[Cozystack - Self-hosted PaaS for K8s](https://github.com/cozystack/cozystack) ⭐ 2,206 | 🐛 643 | 🌐 Shell | 📅 2026-08-28 :fire::fire::fire::fire: - a turnkey, self-hosted PaaS built to run on hardened Talos Linux clusters, bringing security-first Kubernetes automation to your own metal. Perfect if you're building sovereign cloud or edge-native stacks.
+* :green\_heart:[Otomi - Self-hosted PaaS for K8s](https://github.com/redkubes/otomi-core) ⭐ 2,258 | 🐛 68 | 🌐 Go Template | 📅 2026-08-29 :fire::fire::fire::fire: - Otomi adds developer- and operations-centric tools, automation, and developer self-service on top of Kubernetes in any infrastructure or cloud, to code, build, release, deploy, secure, operate and monitor containerized applications.
+  :green\_heart:[Cozystack - Self-hosted PaaS for K8s](https://github.com/cozystack/cozystack) ⭐ 2,207 | 🐛 643 | 🌐 Shell | 📅 2026-08-29 :fire::fire::fire::fire: - a turnkey, self-hosted PaaS built to run on hardened Talos Linux clusters, bringing security-first Kubernetes automation to your own metal. Perfect if you're building sovereign cloud or edge-native stacks.
 * :green\_heart:[TF-controller](https://github.com/weaveworks/tf-controller) ⭐ 1,686 | 🐛 154 | 🌐 Go | 📅 2026-08-24 :fire: - TF-controller is an experimental controller for Flux to reconcile Terraform resources in the GitOps way.
-* :green\_heart:[Weave GitOps](https://github.com/weaveworks/weave-gitops) ⭐ 1,128 | 🐛 162 | 🌐 MDX | 📅 2026-08-28 :fire::fire: - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
+* :green\_heart:[Weave GitOps](https://github.com/weaveworks/weave-gitops) ⭐ 1,128 | 🐛 162 | 🌐 MDX | 📅 2026-08-29 :fire::fire: - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
 * :green\_heart:[Argocd autopilot](https://github.com/argoproj-labs/argocd-autopilot) ⭐ 1,125 | 🐛 96 | 🌐 Go | 📅 2025-12-16 :fire::fire::fire: - The Argo-CD Autopilot is a tool which offers an opinionated way of installing Argo-CD and managing GitOps repositories.
 * :green\_heart:[k8s-image-swapper](https://github.com/estahn/k8s-image-swapper/) ⭐ 632 | 🐛 47 | 🌐 Go | 📅 2026-08-28 :fire::fire: - `k8s-image-swapper` is a mutating webhook for Kubernetes, downloading images into your own registry and pointing the images to that new location.
 * :green\_heart:[terranetes-controller](https://github.com/appvia/terranetes-controller) ⭐ 248 | 🐛 36 | 🌐 Go | 📅 2026-07-16 :fire: - Terranetes controller enables the platform team to deliver self-service capabilities around cloud resources.
 
 ### Cluster Resources Management
 
-* :green\_heart: [Meshery](https://github.com/meshery/meshery) ⭐ 11,599 | 🐛 1,845 | 🌐 TypeScript | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Meshery is an open-source cloud-native manager that enables the design and management of all Kubernetes-based infrastructure and applications.
-* :green\_heart:[KEDA](https://github.com/kedacore/keda) ⭐ 10,475 | 🐛 244 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - KEDA allows for fine grained autoscaling (including to/from zero) for event driven Kubernetes workloads.
-* :green\_heart:[Kruise](https://github.com/openkruise/kruise) ⭐ 5,326 | 🐛 79 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Kruise consists of several controllers which extend and complement the Kubernetes core controllers for workload management.
+* :green\_heart: [Meshery](https://github.com/meshery/meshery) ⭐ 11,598 | 🐛 1,842 | 🌐 TypeScript | 📅 2026-08-29 :fire::fire::fire::fire::fire: - Meshery is an open-source cloud-native manager that enables the design and management of all Kubernetes-based infrastructure and applications.
+* :green\_heart:[KEDA](https://github.com/kedacore/keda) ⭐ 10,475 | 🐛 244 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire::fire: - KEDA allows for fine grained autoscaling (including to/from zero) for event driven Kubernetes workloads.
+* :green\_heart:[Kruise](https://github.com/openkruise/kruise) ⭐ 5,326 | 🐛 78 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Kruise consists of several controllers which extend and complement the Kubernetes core controllers for workload management.
 * :green\_heart:[Polaris](https://github.com/FairwindsOps/polaris) ⭐ 3,384 | 🐛 19 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Polaris is an open source policy engine for Kubernetes that validates and remediates resource configuration.
 * :green\_heart:[Grafana Tanka](https://github.com/grafana/tanka) ⭐ 2,682 | 🐛 62 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire: - The clean, concise and super flexible alternative to YAML for your Kubernetes cluster.
-* :green\_heart:[Pluto](https://github.com/FairwindsOps/pluto) ⭐ 2,573 | 🐛 14 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire: - Pluto is a utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.
+* :green\_heart:[Pluto](https://github.com/FairwindsOps/pluto) ⭐ 2,573 | 🐛 13 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire: - Pluto is a utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.
 * :green\_heart:[Kubenav](https://github.com/kubenav/kubenav) ⭐ 2,289 | 🐛 45 | 🌐 Dart | 📅 2026-08-01 :fire::fire::fire::fire: - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 * :green\_heart:[Liqo](https://github.com/liqotech/liqo) ⭐ 1,479 | 🐛 109 | 🌐 Go | 📅 2026-08-25 :fire::fire: - Liqo implements Dynamic resource sharing across different Kubernetes clusters (e.g.; offloading pods and services), supporting decentralized governance.
 * :green\_heart:[The Hierarchical Namespace Controller](https://github.com/kubernetes-sigs/multi-tenancy/tree/master/incubator/hnc) ⚠️ Archived :fire::fire::fire: - Hierarchical namespaces make it easier to share your cluster by making namespaces more powerful.
@@ -138,28 +138,28 @@ Items with :green\_heart: indicate open source projects.
 
 ### Networking
 
-* :green\_heart:[cilium](https://github.com/cilium/cilium) ⭐ 25,021 | 🐛 1,084 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Cilium is a networking, observability, and security solution with an eBPF-based dataplane.
+* :green\_heart:[cilium](https://github.com/cilium/cilium) ⭐ 25,022 | 🐛 1,085 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Cilium is a networking, observability, and security solution with an eBPF-based dataplane.
 * :green\_heart:[ingress-nginx](https://github.com/kubernetes/ingress-nginx) ⚠️ Archived :fire::fire::fire::fire::fire: - `ingress-nginx` is an Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer.
-* :green\_heart:[CoreDNS](https://github.com/coredns/coredns) ⭐ 14,283 | 🐛 297 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - CoreDNS is a fast and flexible DNS server that works on Kubernetes.
+* :green\_heart:[CoreDNS](https://github.com/coredns/coredns) ⭐ 14,285 | 🐛 298 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - CoreDNS is a fast and flexible DNS server that works on Kubernetes.
 * :green\_heart:[cert-manager](https://github.com/jetstack/cert-manager) ⭐ 14,055 | 🐛 248 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - cert-manager is a Kubernetes add-on to automate the management and issuance of TLS certificates from various issuing sources.
-* :green\_heart:[Calico Networking](https://github.com/projectcalico/calico) ⭐ 7,339 | 🐛 248 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Calico is an open source networking and network security solution for containers, virtual machines, and bare-metal workloads
-* :green\_heart:[kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) ⭐ 5,070 | 🐛 246 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire:  - An implementation of an Ingress controller for NGINX and NGINX Plus (commercial).
+* :green\_heart:[Calico Networking](https://github.com/projectcalico/calico) ⭐ 7,339 | 🐛 248 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire::fire: - Calico is an open source networking and network security solution for containers, virtual machines, and bare-metal workloads
+* :green\_heart:[kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) ⭐ 5,070 | 🐛 256 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire::fire:  - An implementation of an Ingress controller for NGINX and NGINX Plus (commercial).
 * :green\_heart:[ksniff](https://github.com/eldadru/ksniff) ⭐ 3,473 | 🐛 67 | 🌐 Go | 📅 2024-08-02 :fire::fire::fire::fire: - A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster.
 * :green\_heart:[Kong for Kubernetes](https://github.com/Kong/kubernetes-ingress-controller) ⭐ 2,408 | 🐛 278 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire: - Configure plugins, health checking, load balancing and more in Kong for Kubernetes Services.
-* :green\_heart:[kube-ovn](https://github.com/alauda/kube-ovn) ⭐ 2,394 | 🐛 69 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire:  - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations.
+* :green\_heart:[kube-ovn](https://github.com/alauda/kube-ovn) ⭐ 2,394 | 🐛 68 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire:  - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations.
 * :green\_heart:[kubectl trace](https://github.com/iovisor/kubectl-trace) ⭐ 2,186 | 🐛 49 | 🌐 Go | 📅 2026-04-16 :fire::fire::fire::fire: - `kubectl trace` is a kubectl plugin that allows you to schedule the execution of bpftrace programs in your Kubernetes cluster.
 * :green\_heart:[loxilb](https://github.com/loxilb-io/loxilb) ⭐ 1,871 | 🐛 31 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire:  - A Kubernetes service load-balancer based on eBPF.
 * :green\_heart:[Kube Karp](https://github.com/immanuelfodor/kube-karp) ⭐ 135 | 🐛 2 | 🌐 Shell | 📅 2022-05-14 :fire: - Add a floating virtual IP to Kubernetes cluster nodes for load balancing easily based on the CARP protocol
 
 ### Storage
 
-* :green\_heart:[Rook](https://github.com/rook/rook) ⭐ 13,617 | 🐛 129 | 🌐 Go | 📅 2026-08-27 :fire::fire::fire::fire::fire: - Rook is an open source cloud-native storage orchestrator for Kubernetes.
-* :green\_heart:[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,805 | 🐛 37 | 📅 2026-08-28 :fire::fire::fire::fire::fire: - OpenEBS is the most widely deployed and easy to use open-source storage solution for Kubernetes.
+* :green\_heart:[Rook](https://github.com/rook/rook) ⭐ 13,618 | 🐛 128 | 🌐 Go | 📅 2026-08-27 :fire::fire::fire::fire::fire: - Rook is an open source cloud-native storage orchestrator for Kubernetes.
+* :green\_heart:[OpenEBS](https://github.com/openebs/openebs) ⭐ 9,805 | 🐛 37 | 📅 2026-08-29 :fire::fire::fire::fire::fire: - OpenEBS is the most widely deployed and easy to use open-source storage solution for Kubernetes.
 * :green\_heart:[Longhorn](https://github.com/longhorn/longhorn) ⭐ 7,945 | 🐛 1,880 | 🌐 Shell | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Longhorn is a distributed block storage system for Kubernetes.
 
 ### Testing and Troubleshooting
 
-* :green\_heart:[k6](https://github.com/loadimpact/k6) ⭐ 31,349 | 🐛 797 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - k6 is a modern load testing tool, building on Load Impact's years of experience in the load and performance testing industry.
+* :green\_heart:[k6](https://github.com/loadimpact/k6) ⭐ 31,349 | 🐛 799 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire::fire: - k6 is a modern load testing tool, building on Load Impact's years of experience in the load and performance testing industry.
 * :green\_heart:[Chaos Mesh](https://github.com/pingcap/chaos-mesh) ⭐ 7,859 | 🐛 550 | 🌐 Go | 📅 2026-08-27 :fire::fire::fire::fire::fire: - Chaos Mesh® is a cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 * :green\_heart:[Litmus](https://github.com/litmuschaos/litmus) ⭐ 5,603 | 🐛 398 | 🌐 Go | 📅 2026-08-25 :fire::fire::fire::fire::fire: - Litmus provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments.
 * :green\_heart:[ksniff](https://github.com/eldadru/ksniff) ⭐ 3,473 | 🐛 67 | 🌐 Go | 📅 2024-08-02 :fire::fire::fire::fire: - A kubectl plugin that utilize tcpdump and Wireshark to start a remote capture on any pod in your Kubernetes cluster.
@@ -174,25 +174,25 @@ Items with :green\_heart: indicate open source projects.
 * :green\_heart:[Chainsaw](https://github.com/kyverno/chainsaw) ⭐ 612 | 🐛 70 | 🌐 Go | 📅 2026-07-28 :fire: - The ultimate end to end testing tool for Kubernetes operators.
 * :green\_heart:[Kubectl-debug](https://github.com/JamesTGrant/kubectl-debug) ⭐ 376 | 🐛 1 | 🌐 Go | 📅 2024-05-06 :fire::fire::fire::fire::fire: - `kubectl-debug` is an out-of-tree solution for troubleshooting running pods, which allows you to run a new container in running pods for debugging purpose.
 * :green\_heart:[Kubetest](https://github.com/vapor-ware/kubetest) ⭐ 207 | 🐛 37 | 🌐 Python | 📅 2022-09-22 :fire: - Kubetest is a pytest plugin that makes it easier to manage a Kubernetes cluster within your integration tests.
-* :green\_heart:[DETIK](https://github.com/bats-core/bats-detik) ⭐ 166 | 🐛 5 | 🌐 Shell | 📅 2025-10-14 :fire: - A library that simplifies end-to-end testing of K8s applications by using [BATS](https://github.com/bats-core/bats-core) ⭐ 6,237 | 🐛 127 | 🌐 Shell | 📅 2026-07-26 assertions and natural language queries.
+* :green\_heart:[DETIK](https://github.com/bats-core/bats-detik) ⭐ 166 | 🐛 5 | 🌐 Shell | 📅 2025-10-14 :fire: - A library that simplifies end-to-end testing of K8s applications by using [BATS](https://github.com/bats-core/bats-core) ⭐ 6,238 | 🐛 127 | 🌐 Shell | 📅 2026-07-26 assertions and natural language queries.
 * :green\_heart:[popeye](https://popeyecli.io/) :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
 
 ### Monitoring, Alerts, and Visualization
 
-* :green\_heart:[Grafana](https://github.com/grafana/grafana) ⭐ 76,465 | 🐛 3,306 | 🌐 TypeScript | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored.
-* :green\_heart:[Prometheus](https://github.com/prometheus/prometheus) ⭐ 65,878 | 🐛 877 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system.
+* :green\_heart:[Grafana](https://github.com/grafana/grafana) ⭐ 76,465 | 🐛 3,317 | 🌐 TypeScript | 📅 2026-08-29 :fire::fire::fire::fire::fire: - Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored.
+* :green\_heart:[Prometheus](https://github.com/prometheus/prometheus) ⭐ 65,878 | 🐛 879 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system.
 * :green\_heart:[Lens](https://github.com/lensapp/lens) ⭐ 23,231 | 🐛 1,170 | 📅 2025-02-11 :fire::fire::fire::fire::fire: - Lens it's an useful, attractive, open source user interface (UI) for working with Kubernetes clusters.
 * :green\_heart:[Kubernetes Dashboard](https://github.com/kubernetes/dashboard) ⚠️ Archived :fire::fire::fire::fire::fire: - Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters.
 * :green\_heart:[Thanos](https://github.com/thanos-io/thanos) ⭐ 14,190 | 🐛 884 | 🌐 Go | 📅 2026-08-26 :fire::fire::fire::fire::fire: - Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity.
 * :green\_heart:[Mizu](https://github.com/up9inc/mizu) ⭐ 12,061 | 🐛 149 | 🌐 Go | 📅 2026-08-27 :fire::fire::fire: - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
-* :green\_heart:[Kubernetes Metrics Server](https://github.com/kubernetes-sigs/metrics-server) ⭐ 6,709 | 🐛 47 | 🌐 Go | 📅 2026-08-24 :fire::fire::fire::fire::fire: - Metrics Server is a scalable, efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+* :green\_heart:[Kubernetes Metrics Server](https://github.com/kubernetes-sigs/metrics-server) ⭐ 6,708 | 🐛 47 | 🌐 Go | 📅 2026-08-24 :fire::fire::fire::fire::fire: - Metrics Server is a scalable, efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 * :green\_heart:[Popeye](https://github.com/derailed/popeye) ⭐ 6,355 | 🐛 68 | 🌐 Go | 📅 2025-12-08 :fire::fire::fire::fire::fire: - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
 * :green\_heart:[kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ⭐ 6,187 | 🐛 107 | 🌐 Go | 📅 2026-08-23 :fire::fire::fire::fire::fire: - kube-state-metrics is a simple service that listens to the Kubernetes API server and generates metrics about the state of the objects.
-* :green\_heart:[Cortex](https://github.com/cortexproject/cortex) ⭐ 5,856 | 🐛 354 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Cortex provides horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
-* :green\_heart:[Helm Dashboard](https://github.com/komodorio/helm-dashboard) ⭐ 5,749 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-10 :fire::fire::fire::fire: - The missing UI for Helm. The Helm Dashboard plugin offers a UI-driven way to view installed Helm charts, see their revision history and corresponding k8s resources.
+* :green\_heart:[Cortex](https://github.com/cortexproject/cortex) ⭐ 5,857 | 🐛 354 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Cortex provides horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
+* :green\_heart:[Helm Dashboard](https://github.com/komodorio/helm-dashboard) ⭐ 5,748 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-10 :fire::fire::fire::fire: - The missing UI for Helm. The Helm Dashboard plugin offers a UI-driven way to view installed Helm charts, see their revision history and corresponding k8s resources.
 * :green\_heart:[Kiali](https://github.com/kiali/kiali) ⭐ 3,633 | 🐛 75 | 🌐 Go | 📅 2026-08-27 :fire::fire::fire::fire::fire: - Kiali works with Istio to visualise the service mesh topology.
-* :green\_heart:[Goldilocks](https://github.com/FairwindsOps/goldilocks) ⭐ 3,322 | 🐛 14 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire: - Goldilocks is a utility that can help you identify a starting point for resource requests and limits.
-* :green\_heart:[Goldpinger](https://github.com/bloomberg/goldpinger) ⭐ 2,736 | 🐛 36 | 🌐 JavaScript | 📅 2026-04-23 :fire::fire::fire::fire::fire: - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
+* :green\_heart:[Goldilocks](https://github.com/FairwindsOps/goldilocks) ⭐ 3,324 | 🐛 14 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire: - Goldilocks is a utility that can help you identify a starting point for resource requests and limits.
+* :green\_heart:[Goldpinger](https://github.com/bloomberg/goldpinger) ⭐ 2,737 | 🐛 36 | 🌐 JavaScript | 📅 2026-04-23 :fire::fire::fire::fire::fire: - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 * :green\_heart:[KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) ⭐ 2,685 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-19 :fire: - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state.
 * :green\_heart:[kube-capacity](https://github.com/robscott/kube-capacity) ⭐ 2,664 | 🐛 51 | 🌐 Go | 📅 2025-11-21 :fire::fire::fire: - This is a simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster.
 * :green\_heart:[BotKube](https://github.com/infracloudio/botkube) ⭐ 2,303 | 🐛 65 | 🌐 Go | 📅 2024-12-11 :fire::fire::fire::fire: - BotKube integration with Slack or Mattermost helps you monitor your Kubernetes cluster, debug critical deployments and gives recommendations for standard practices by running checks on the Kubernetes resources.
@@ -209,19 +209,19 @@ Items with :green\_heart: indicate open source projects.
 
 ### Backup and Restore
 
-* :green\_heart:[Velero](https://github.com/vmware-tanzu/velero) ⭐ 10,257 | 🐛 836 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Velero (formerly Heptio Ark) gives you tools to back up and restore your Kubernetes cluster resources and persistent volumes.
+* :green\_heart:[Velero](https://github.com/vmware-tanzu/velero) ⭐ 10,258 | 🐛 836 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Velero (formerly Heptio Ark) gives you tools to back up and restore your Kubernetes cluster resources and persistent volumes.
 * :green\_heart:[katafygio](https://github.com/bpineau/katafygio) ⭐ 207 | 🐛 9 | 🌐 Go | 📅 2023-12-15 :fire: - katafygio discovers Kubernetes objects (deployments, services, ...), and continuously save them as yaml files in a git repository.
 
 ### Security and Compliance
 
 * :green\_heart:[Teleport](https://github.com/gravitational/teleport) ⭐ 20,857 | 🐛 3,331 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Teleport Unified Access Plane enables engineers to quickly access any computing resource anywhere.
-* :green\_heart:[Falco](https://github.com/falcosecurity/falco) ⭐ 9,311 | 🐛 65 | 🌐 C++ | 📅 2026-08-03 :fire::fire::fire::fire::fire: - Falco is a behavioral activity monitor designed to detect anomalous activity in your applications. You can use Falco to monitor run-time security of your Kubernetes applications and internal components.
+* :green\_heart:[Falco](https://github.com/falcosecurity/falco) ⭐ 9,312 | 🐛 65 | 🌐 C++ | 📅 2026-08-03 :fire::fire::fire::fire::fire: - Falco is a behavioral activity monitor designed to detect anomalous activity in your applications. You can use Falco to monitor run-time security of your Kubernetes applications and internal components.
 * :green\_heart:[kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,160 | 🐛 96 | 🌐 Go | 📅 2026-08-24 :fire::fire::fire::fire::fire: - kube-bench is a Go application that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
-* :green\_heart:[Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,083 | 🐛 645 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire: - Kyverno is a policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans.
+* :green\_heart:[Kyverno](https://github.com/kyverno/kyverno) ⭐ 8,083 | 🐛 649 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire: - Kyverno is a policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans.
 * :green\_heart:[Datree](https://github.com/datreeio/datree) ⚠️ Archived :fire::fire::fire::fire::fire: - Datree is a CLI tool that supports Kubernetes admins in their roles by preventing developers from making errors in Kubernetes configurations that can cause clusters to fail in production.
 * :green\_heart:[Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,318 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01 :fire::fire::fire: - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 * :green\_heart:[kube-hunter](https://github.com/aquasecurity/kube-hunter) ⭐ 5,081 | 🐛 82 | 🌐 Python | 📅 2024-03-19 :fire::fire::fire::fire::fire: - kube-hunter hunts for security weaknesses in Kubernetes clusters.
-* :green\_heart:[Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,269 | 🐛 186 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Policy controller for Kubernetes
+* :green\_heart:[Gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,269 | 🐛 187 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - Policy controller for Kubernetes
 * :green\_heart:[KubeLinter](https://github.com/stackrox/kube-linter) ⭐ 3,502 | 🐛 92 | 🌐 Go | 📅 2026-08-26 :fire::fire::fire::fire: - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 * :green\_heart:[KubiScan](https://github.com/cyberark/KubiScan) ⭐ 1,432 | 🐛 6 | 🌐 Python | 📅 2025-05-25 :fire::fire::fire: - A tool for scanning Kubernetes cluster for risky permissions in Kubernetes's Role-based access control (RBAC) authorization model.
 * :green\_heart:[rakkess](https://github.com/corneliusweig/rakkess) ⭐ 1,402 | 🐛 15 | 🌐 Go | 📅 2023-04-05 :fire::fire::fire: - kubectl plugin to show an access matrix for server resources
@@ -235,7 +235,7 @@ Items with :green\_heart: indicate open source projects.
 
 ### Service Mesh
 
-* :green\_heart:[Istio](https://github.com/istio/istio) ⭐ 38,365 | 🐛 516 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - An open platform to connect, manage, and secure microservices.
+* :green\_heart:[Istio](https://github.com/istio/istio) ⭐ 38,365 | 🐛 515 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire::fire: - An open platform to connect, manage, and secure microservices.
 * :green\_heart:[Linkerd](https://github.com/linkerd/linkerd) ⭐ 5,309 | 🐛 146 | 🌐 Scala | 📅 2023-03-04 :fire::fire::fire::fire::fire: - Linkerd is a transparent service mesh, designed to make modern applications safe and sane.
 * :green\_heart:[Open Service Mesh](https://github.com/openservicemesh/osm/) ⚠️ Archived :fire::fire::fire::fire::fire: - Open Service Mesh (OSM) is a lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 
@@ -244,15 +244,15 @@ Items with :green\_heart: indicate open source projects.
 * :green\_heart:[Tilt](https://github.com/tilt-dev/tilt) ⭐ 10,025 | 🐛 509 | 🌐 Go | 📅 2026-08-27 :fire::fire::fire::fire::fire: - Tilt powers multi-service development and makes sure they behave.
 * :green\_heart:[ko](https://github.com/google/ko) ⭐ 8,513 | 🐛 56 | 🌐 Go | 📅 2026-08-26 :fire::fire::fire::fire::fire: - `ko` is a tool for building and deploying Golang applications to Kubernetes.
 * :green\_heart:[Telepresence](https://github.com/telepresenceio/telepresence) ⭐ 7,288 | 🐛 26 | 🌐 Go | 📅 2026-08-25 :fire::fire::fire::fire::fire: - Telepresence provides fast, realistic local development for Kubernetes microservices.
-* :green\_heart:[mirrord](https://github.com/metalbear-co/mirrord) ⭐ 5,281 | 🐛 75 | 🌐 Rust | 📅 2026-08-28 :fire::fire::fire::fire::fire: - mirrord connects your local process and your cloud environment, and runs local code in cloud conditions.
+* :green\_heart:[mirrord](https://github.com/metalbear-co/mirrord) ⭐ 5,281 | 🐛 73 | 🌐 Rust | 📅 2026-08-28 :fire::fire::fire::fire::fire: - mirrord connects your local process and your cloud environment, and runs local code in cloud conditions.
 * :green\_heart:[Tye](https://github.com/dotnet/tye) ⚠️ Archived :fire::fire::fire::fire::fire: - Tye is a developer tool that makes developing, testing, and deploying microservices and distributed applications easier.
 * :green\_heart:[garden](https://github.com/garden-io/garden) ⭐ 3,611 | 🐛 247 | 🌐 TypeScript | 📅 2026-08-24 :fire::fire::fire::fire::fire: - Garden provides production-like Kubernetes testing environments for integration tests, QA, and development.
-* :green\_heart:[Okteto](https://github.com/okteto/okteto) ⭐ 3,535 | 🐛 36 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire: - `okteto` accelerates the development workflow of Kubernetes applications.
+* :green\_heart:[Okteto](https://github.com/okteto/okteto) ⭐ 3,534 | 🐛 36 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire: - `okteto` accelerates the development workflow of Kubernetes applications.
 * :green\_heart:[Cyclops](https://github.com/cyclops-ui/cyclops) ⭐ 3,321 | 🐛 84 | 🌐 Go | 📅 2026-01-22 :fire::fire: - Customizable UI for Kubernetes deployments
 * :green\_heart:[Makisu](https://github.com/uber/makisu) ⚠️ Archived :fire::fire::fire::fire::fire: - Makisu is a fast and flexible Docker image build tool designed for unprivileged containerized environments such as Mesos or Kubernetes.
 * :green\_heart:[Monokle](https://github.com/kubeshop/monokle) ⭐ 2,140 | 🐛 409 | 🌐 TypeScript | 📅 2026-02-26 :fire::fire::fire: - Monokle helps you create, edit and validate yaml manifests, visualize and validate resource links and dependencies, connect and compare resources to your clusters, debug the output of kustomize or helm, and more!
 * :green\_heart:[kubevious](https://github.com/kubevious/Kubevious) ⭐ 1,706 | 🐛 17 | 📅 2026-06-13 :fire::fire::fire::fire: - Kubevious renders all configurations relevant to the application in one place. That saves a lot of time from operators, eliminating the need for looking up settings and digging within selectors and labels.
-* :green\_heart:[Eclipse JKube](https://github.com/eclipse/jkube) ⭐ 852 | 🐛 160 | 🌐 Java | 📅 2026-08-28 :fire::fire: - Tools and plugins for Java developers that help you create container images along with the required manifests to deploy your applications to Kubernetes.
+* :green\_heart:[Eclipse JKube](https://github.com/eclipse/jkube) ⭐ 852 | 🐛 161 | 🌐 Java | 📅 2026-08-28 :fire::fire: - Tools and plugins for Java developers that help you create container images along with the required manifests to deploy your applications to Kubernetes.
 * :green\_heart:[kubernix](https://github.com/saschagrunert/kubernix) ⭐ 823 | 🐛 0 | 🌐 Rust | 📅 2026-08-27 :fire::fire::fire: - This project aims to provide single dependency Kubernetes clusters for local testing, experimenting and development purposes.
 * :green\_heart:[gefyra](https://github.com/gefyrahq/gefyra) ⭐ 799 | 🐛 54 | 🌐 Python | 📅 2026-08-28 :fire::fire::fire: -Gefyra blazingly-fast, rock-solid, local application development ➡️ with Kubernetes.
 * :green\_heart:[kubectl-warp](https://github.com/ernoaapa/kubectl-warp) ⭐ 313 | 🐛 10 | 🌐 Go | 📅 2023-04-04 :fire::fire: - Kubernetes CLI plugin for syncing and executing local files in Pod on Kubernetes
@@ -262,8 +262,8 @@ Items with :green\_heart: indicate open source projects.
 ### Data Processing and Machine Learning
 
 * :green\_heart:[Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,840 | 🐛 0 | 📅 2026-08-21 :fire::fire::fire::fire::fire: - Kubeflow is a Cloud Native platform for machine learning based on Google’s internal machine learning pipelines.
-* :green\_heart:[Strimzi](https://github.com/strimzi/strimzi-kafka-operator) ⭐ 5,920 | 🐛 155 | 🌐 Java | 📅 2026-08-27 :fire::fire::fire::fire::fire: - Strimzi provides a way to run an Apache Kafka cluster on Kubernetes or OpenShift in various deployment configurations.
-* :green\_heart:[Volcano](https://github.com/volcano-sh/volcano) ⭐ 5,907 | 🐛 809 | 🌐 Go | 📅 2026-08-28 :fire::fire::fire::fire: - Volcano is a batch system built on Kubernetes.
+* :green\_heart:[Strimzi](https://github.com/strimzi/strimzi-kafka-operator) ⭐ 5,921 | 🐛 155 | 🌐 Java | 📅 2026-08-27 :fire::fire::fire::fire::fire: - Strimzi provides a way to run an Apache Kafka cluster on Kubernetes or OpenShift in various deployment configurations.
+* :green\_heart:[Volcano](https://github.com/volcano-sh/volcano) ⭐ 5,907 | 🐛 806 | 🌐 Go | 📅 2026-08-29 :fire::fire::fire::fire: - Volcano is a batch system built on Kubernetes.
 * :green\_heart:[yunikorn](https://github.com/apache/incubator-yunikorn-core) ⭐ 1,025 | 🐛 11 | 🌐 Go | 📅 2026-08-28 :fire::fire: - a light-weight, universal resource scheduler for container orchestrator systems.
 * :green\_heart:[nos](https://github.com/nebuly-ai/nos) ⭐ 685 | 🐛 26 | 🌐 Go | 📅 2024-04-21 :fire::fire: - `nos` is an open-source platform to efficiently run AI workloads on Kubernetes, increasing GPU utilization and reducing infrastructure and operational costs.
 
@@ -277,7 +277,7 @@ Items with :green\_heart: indicate open source projects.
 
 ### Miscellaneous
 
-* :green\_heart:[Crossplane](https://github.com/crossplane/crossplane) ⭐ 11,985 | 🐛 188 | 🌐 Go | 📅 2026-08-27 :fire::fire::fire::fire::fire: - Crossplane is an open source Kubernetes add-on that extends any cluster with the ability to provision and manage cloud infrastructure, services, and applications.
+* :green\_heart:[Crossplane](https://github.com/crossplane/crossplane) ⭐ 11,986 | 🐛 188 | 🌐 Go | 📅 2026-08-27 :fire::fire::fire::fire::fire: - Crossplane is an open source Kubernetes add-on that extends any cluster with the ability to provision and manage cloud infrastructure, services, and applications.
 * :green\_heart:[KubeEdge](https://github.com/kubeedge/kubeedge) ⭐ 7,559 | 🐛 1,280 | 🌐 Go | 📅 2026-08-26 :fire::fire::fire::fire::fire: - KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
 * :green\_heart:[Agones](https://github.com/googleforgames/agones) ⭐ 6,996 | 🐛 63 | 🌐 Go | 📅 2026-08-27 :fire::fire::fire::fire::fire: - Agones is a library for hosting, running and scaling dedicated game servers on Kubernetes.
 * :green\_heart:[OpenCost](https://github.com/opencost/opencost) ⭐ 6,713 | 🐛 297 | 🌐 Go | 📅 2026-08-26 :fire::fire::fire::fire::fire: - OpenCost models give teams visibility into current and historical Kubernetes spend and resource allocation.
@@ -296,7 +296,7 @@ Items with :green\_heart: indicate open source projects.
 
 ### Guides
 
-* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) ⭐ 49,569 | 🐛 54 | 📅 2025-04-10 :fire::fire::fire::fire::fire: - Kubernetes The Hard Way guides you through bootstrapping a highly available Kubernetes cluster with end-to-end encryption between components and RBAC authentication.
+* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) ⭐ 49,572 | 🐛 54 | 📅 2025-04-10 :fire::fire::fire::fire::fire: - Kubernetes The Hard Way guides you through bootstrapping a highly available Kubernetes cluster with end-to-end encryption between components and RBAC authentication.
 * [Kubernetes Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) ⭐ 6,159 | 🐛 5 | 📅 2025-02-07 :fire::fire::fire::fire::fire: - This repository contains various use cases of Kubernetes Network Policies and sample YAML files to leverage in your setup.
 * [Kubernetes Working Group for Multi-Tenancy](https://github.com/kubernetes-sigs/multi-tenancy) ⚠️ Archived :fire::fire::fire: - This is a working place for multi-tenancy related proposals and prototypes.
 * [Amazon EKS Node Drainer](https://github.com/aws-samples/amazon-k8s-node-drainer) ⚠️ Archived :fire: - A guide and an example to cordon and evict all evictable pods from an EC2 node being terminated.
@@ -366,4 +366,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
